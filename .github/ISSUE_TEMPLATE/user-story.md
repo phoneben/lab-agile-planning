@@ -6,8 +6,9 @@ labels: ''
 assignees: ''
 
 ---
-**As a** [User] 
-**I need** [function]  
+**As a** [User]
+
+**I need** [function] 
 **So that** [benefit]  
    
  ### Details and Assumptions
